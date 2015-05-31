@@ -1,7 +1,11 @@
 estou aqui na minha humilde residencia
 
 
+<<<<<<< HEAD
 
 
 to mexendo no primeiro branch
 
+=======
+to fazendo alteração no segundo branch
+>>>>>>> novo
